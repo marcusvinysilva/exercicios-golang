@@ -1,5 +1,4 @@
-// Maior entre três números:
-// Escreva uma função que receba três números como entrada e retorne o maior deles.
+// Maior entre três números:Escreva uma função que receba três números como entrada e retorne o maior deles.
 package main
 
 import "fmt"

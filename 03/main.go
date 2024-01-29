@@ -1,5 +1,4 @@
-// Contagem de vogais:
-// Escreva uma função que receba uma string como entrada e retorne o número de vogais na string.
+// Contagem de vogais: Escreva uma função que receba uma string como entrada e retorne o número de vogais na string.
 package main
 
 import (

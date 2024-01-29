@@ -1,5 +1,4 @@
-// Soma de dois números:
-// Escreva uma função que receba dois números como entrada e retorne a soma deles.
+// Soma de dois números: Escreva uma função que receba dois números como entrada e retorne a soma deles.
 package main
 
 import "fmt"
